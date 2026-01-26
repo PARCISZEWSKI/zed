@@ -7,6 +7,8 @@
 // custom settings, run `zed: open default settings` from the
 // command palette (cmd-shift-p / ctrl-shift-p)
 {
+  "ui_font_family": "Bitstream Vera Sans Mono",
+  "buffer_font_family": "Bitstream Vera Sans Mono",
   "show_wrap_guides": true,
   "relative_line_numbers": "enabled",
   "collaboration_panel": {
@@ -55,6 +57,6 @@
   "theme": {
     "mode": "system",
     "light": "Gruvbox Light",
-    "dark": "Gruvbox Material"
+    "dark": "Gruvbox Dark"
   }
 }
